@@ -1,0 +1,214 @@
+﻿{
+    "questions": [
+        {
+          "id": 1,
+          "imageName": "persepolis",
+          "correctAnswer": "تخت جمشید",
+          "wrongAnswers": ["پاسارگاد", "نقش رستم", "بیستون"],
+          "description": "تخت جمشید پایتخت تشریفاتی شاهنشاهی هخامنشی بود."
+        },
+        {
+          "id": 2,
+          "imageName": "pasargadae",
+          "correctAnswer": "پاسارگاد",
+          "wrongAnswers": ["تخت جمشید", "بیشاپور", "هگمتانه"],
+          "description": "پاسارگاد نخستین پایتخت شاهنشاهی هخامنشی به شمار می‌رود."
+        },
+        {
+          "id": 3,
+          "imageName": "cyrus_tomb",
+          "correctAnswer": "آرامگاه کوروش بزرگ",
+          "wrongAnswers": ["آرامگاه فردوسی", "آرامگاه حافظ", "گنبد سلطانیه"],
+          "description": "آرامگاه کوروش بزرگ در مجموعه جهانی پاسارگاد قرار دارد."
+        },
+        {
+          "id": 4,
+          "imageName": "naqsh_e_rostam",
+          "correctAnswer": "نقش رستم",
+          "wrongAnswers": ["بیستون", "چغازنبیل", "بیشاپور"],
+          "description": "آرامگاه چند پادشاه هخامنشی در نقش رستم قرار گرفته است."
+        },
+        {
+          "id": 5,
+          "imageName": "kaaba_zartosht",
+          "correctAnswer": "کعبه زرتشت",
+          "wrongAnswers": ["گنبد قابوس", "برج آزادی", "مسجد امام"],
+          "description": "کعبه زرتشت بنایی سنگی در مجموعه نقش رستم است."
+        },
+        {
+          "id": 6,
+          "imageName": "apadana_susa",
+          "correctAnswer": "کاخ آپادانای شوش",
+          "wrongAnswers": ["کاخ اردشیر", "پاسارگاد", "باغ فین"],
+          "description": "کاخ آپادانای شوش از مهم‌ترین بناهای هخامنشیان است."
+        },
+        {
+          "id": 7,
+          "imageName": "taq_bostan",
+          "correctAnswer": "طاق بستان",
+          "wrongAnswers": ["بیستون", "تخت جمشید", "ارگ بم"],
+          "description": "طاق بستان مجموعه‌ای از سنگ‌نگاره‌های دوره ساسانی در کرمانشاه است."
+        },
+        {
+          "id": 8,
+          "imageName": "bishapur",
+          "correctAnswer": "بیشاپور",
+          "wrongAnswers": ["پاسارگاد", "هگمتانه", "شهر سوخته"],
+          "description": "بیشاپور شهری تاریخی از دوران ساسانیان است."
+        },
+        {
+          "id": 9,
+          "imageName": "taq_kasra",
+          "correctAnswer": "طاق کسری",
+          "wrongAnswers": ["طاق بستان", "سی و سه پل", "پل خواجو"],
+          "description": "طاق کسری از بزرگ‌ترین طاق‌های آجری جهان به شمار می‌رود."
+        },
+        {
+          "id": 10,
+          "imageName": "ghaleh_dokhtar",
+          "correctAnswer": "قلعه دختر فیروزآباد",
+          "wrongAnswers": ["فلک الافلاک", "ارگ بم", "گنبد قابوس"],
+          "description": "قلعه دختر از آثار مهم آغاز حکومت ساسانیان است."
+        },
+        {
+        "id": 11,
+        "imageName": "palace_of_ardashir",
+        "correctAnswer": "کاخ اردشیر بابکان",
+        "wrongAnswers": ["کاخ آپادانا", "پاسارگاد", "باغ فین"],
+        "description": "کاخ اردشیر بابکان در فیروزآباد فارس و از آثار مهم ساسانی است."
+        },
+        {
+        "id": 12,
+        "imageName": "chogha_zanbil",
+        "correctAnswer": "چغازنبیل",
+        "wrongAnswers": ["شهر سوخته", "هگمتانه", "بیستون"],
+        "description": "چغازنبیل نیایشگاهی متعلق به تمدن ایلام باستان است."
+        },
+        {
+        "id": 13,
+        "imageName": "ecbatana",
+        "correctAnswer": "هگمتانه",
+        "wrongAnswers": ["بیشاپور", "پاسارگاد", "شهر سوخته"],
+        "description": "هگمتانه پایتخت مادها و یکی از کهن‌ترین شهرهای ایران است."
+        },
+        {
+        "id": 14,
+        "imageName": "bisotun",
+        "correctAnswer": "بیستون",
+        "wrongAnswers": ["نقش رستم", "طاق بستان", "چغازنبیل"],
+        "description": "کتیبه داریوش بزرگ در محوطه تاریخی بیستون قرار دارد."
+        },
+        {
+        "id": 15,
+        "imageName": "shahr_e_sukhteh",
+        "correctAnswer": "شهر سوخته",
+        "wrongAnswers": ["چغازنبیل", "هگمتانه", "بیشاپور"],
+        "description": "شهر سوخته یکی از مهم‌ترین محوطه‌های باستانی عصر مفرغ در ایران است."
+        },
+        {
+        "id": 16,
+        "imageName": "naqsh_e_jahan",
+        "correctAnswer": "میدان نقش جهان",
+        "wrongAnswers": ["سی و سه پل", "پل خواجو", "باغ فین"],
+        "description": "میدان نقش جهان از شاهکارهای معماری دوره صفوی است."
+        },
+        {
+        "id": 17,
+        "imageName": "sheikh_lotfollah",
+        "correctAnswer": "مسجد شیخ لطف الله",
+        "wrongAnswers": ["مسجد امام", "مسجد نصیرالملک", "گنبد سلطانیه"],
+        "description": "مسجد شیخ لطف الله به دلیل گنبد منحصربه‌فردش شهرت جهانی دارد."
+        },
+        {
+        "id": 18,
+        "imageName": "shah_mosque",
+        "correctAnswer": "مسجد امام اصفهان",
+        "wrongAnswers": ["مسجد نصیرالملک", "مسجد شیخ لطف الله", "گنبد قابوس"],
+        "description": "مسجد امام یکی از برجسته‌ترین آثار معماری اسلامی ایران است."
+        },
+        {
+        "id": 19,
+        "imageName": "si_o_se_pol",
+        "correctAnswer": "سی و سه پل",
+        "wrongAnswers": ["پل خواجو", "نقش جهان", "ارگ بم"],
+        "description": "سی و سه پل مشهورترین پل تاریخی شهر اصفهان است."
+        },
+        {
+        "id": 20,
+        "imageName": "khaju_bridge",
+        "correctAnswer": "پل خواجو",
+        "wrongAnswers": ["سی و سه پل", "نقش جهان", "سعدالسلطنه"],
+        "description": "پل خواجو علاوه بر پل، کاربری سد نیز داشته است."
+        },
+        {
+        "id": 21,
+        "imageName": "soltaniyeh",
+        "correctAnswer": "گنبد سلطانیه",
+        "wrongAnswers": ["گنبد قابوس", "مسجد امام", "مسجد نصیرالملک"],
+        "description": "گنبد سلطانیه یکی از بزرگ‌ترین گنبدهای آجری جهان است."
+        },
+        {
+        "id": 22,
+        "imageName": "arg_e_bam",
+        "correctAnswer": "ارگ بم",
+        "wrongAnswers": ["فلک الافلاک", "قلعه دختر", "پاسارگاد"],
+        "description": "ارگ بم بزرگ‌ترین سازه خشتی جهان شناخته می‌شود."
+        },
+        {
+        "id": 23,
+        "imageName": "falak_ol_aflak",
+        "correctAnswer": "قلعه فلک الافلاک",
+        "wrongAnswers": ["ارگ بم", "قلعه دختر", "بیشاپور"],
+        "description": "فلک الافلاک یکی از نمادهای تاریخی شهر خرم‌آباد است."
+        },
+        {
+        "id": 24,
+        "imageName": "fin_garden",
+        "correctAnswer": "باغ فین کاشان",
+        "wrongAnswers": ["پاسارگاد", "نقش جهان", "سعدالسلطنه"],
+        "description": "باغ فین یکی از معروف‌ترین باغ‌های ایرانی ثبت‌شده در یونسکو است."
+        },
+        {
+        "id": 25,
+        "imageName": "nasir_al_mulk",
+        "correctAnswer": "مسجد نصیرالملک",
+        "wrongAnswers": ["مسجد امام", "مسجد شیخ لطف الله", "گنبد سلطانیه"],
+        "description": "مسجد نصیرالملک به مسجد صورتی ایران مشهور است."
+        },
+        {
+        "id": 26,
+        "imageName": "gonbad_e_qabus",
+        "correctAnswer": "گنبد قابوس",
+        "wrongAnswers": ["گنبد سلطانیه", "برج آزادی", "آرامگاه فردوسی"],
+        "description": "گنبد قابوس بلندترین برج تمام‌آجری جهان محسوب می‌شود."
+        },
+        {
+        "id": 27,
+        "imageName": "kandovan",
+        "correctAnswer": "روستای کندوان",
+        "wrongAnswers": ["شهر سوخته", "بیشاپور", "هگمتانه"],
+        "description": "خانه‌های صخره‌ای کندوان هنوز محل زندگی مردم هستند."
+        },
+        {
+        "id": 28,
+        "imageName": "saad_al_saltaneh",
+        "correctAnswer": "کاروانسرای سعدالسلطنه",
+        "wrongAnswers": ["باغ فین", "ارگ بم", "فلک الافلاک"],
+        "description": "سعدالسلطنه از بزرگ‌ترین کاروانسراهای سرپوشیده ایران است."
+        },
+        {
+        "id": 29,
+        "imageName": "ferdowsi_tomb",
+        "correctAnswer": "آرامگاه فردوسی",
+        "wrongAnswers": ["آرامگاه حافظ", "آرامگاه کوروش بزرگ", "گنبد قابوس"],
+        "description": "فردوسی، سراینده شاهنامه، در این آرامگاه در توس آرمیده است."
+        },
+        {
+        "id": 30,
+        "imageName": "hafez_tomb",
+        "correctAnswer": "آرامگاه حافظ",
+        "wrongAnswers": ["آرامگاه فردوسی", "باغ فین", "نقش جهان"],
+        "description": "حافظ شیرازی، شاعر بزرگ ایران، در این آرامگاه دفن شده است."
+        }
+      ]
+}
